@@ -2,9 +2,7 @@
 # **Refactoring MonolithicAdventureGame Using SOLID Principles**
 
 ## **1.Project Overview**
-MonolithicAdventureGame is a console-based RPG where a player fights enemies, collects items, gains experience, and levels up.
-After refactoring, the code follows SOLID principles, making it modular, maintainable, and scalable
-
+This project is a refactored version of a monolithic adventure game, following SOLID principles to improve modularity, scalability, and maintainability.
 
 ---
 
